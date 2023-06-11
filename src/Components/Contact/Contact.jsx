@@ -30,7 +30,7 @@ function Contact(){
                            <div className="type-contact-img">
                             <img src={contactNum} alt="" />
                         </div>
-                        <p><span>24/7</span>Service<br />Appelez nous</p>
+                        <p>24/7 <span>Service<br />Appelez nous</span></p>
                     </div>
                     <div className="info-contact">
                         <p>+33 6 32 01 01 93</p>
@@ -42,7 +42,7 @@ function Contact(){
                            <div className="type-contact-img">
                             <img src={contactLocation} alt="" />
                         </div>
-                        <p><span>Location</span><br />Paris</p>
+                        <p>Location<br/><span>Paris</span></p>
                     </div>
                     <div className="info-contact">
                         <p>60 rue François premier</p>
